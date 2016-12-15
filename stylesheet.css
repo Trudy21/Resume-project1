@@ -1,0 +1,245 @@
+.entire{ 
+		border: 6px solid green;
+		padding: 110px;
+		background-color: #ADD8E6;
+		
+	}
+/*Image*/
+img{
+		height: 310px;
+		width: 250px;
+		position: absolute;
+		border: 3px solid green;
+		margin-top: 50px;
+		margin-left: 920px;
+		border-radius: 50px;
+		-webkit-transform: rotate(85deg)
+}
+#name {
+		font-size: 55px;
+		text-indent: 25px;
+		font-family: courier;
+}
+
+.mainline{
+		width: 1170px;
+		border: 2px solid green;
+		margin-top: -40px;
+		margin-right: 80px;
+		margin-bottom: 20px;
+		margin-left: 30px;
+}
+
+.info{
+		text-indent: 29px;
+		display: inline;
+		
+}
+
+#cell{
+		font-size: 20px;
+		display: inline-block;
+}
+
+#email {
+		font-size: 20px;
+		margin-top: -20px;
+}
+
+.first{
+		margin-left: 29px;
+		text-align: left;
+		width: 800px;
+		
+}
+#aboutme {
+		font-size: 24px;
+		font-family:cursive;
+}
+
+/*Education*/
+#education {
+		margin-left: 25px;
+		margin-top: 10px;
+		font-size: 31px;
+		display: inline-block;
+}
+.edu .school{
+		height: 200px;
+		width: .01px;
+		border: 2px solid green;
+		margin-left: 200px;
+		margin-top: -180px;
+}
+
+.edu #schl{
+		font-size: 24px;
+		margin-left: 240px;
+		margin-top: -100px;
+		margin-bottom: 110px;
+}
+#sch{
+		font-size: 24px;
+		margin-left: 240px;
+		margin-top: -220px;
+		margin-bottom: 100px;
+}
+
+/*#eight{
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+	
+}*/
+
+.schl{margin-top: 130px;}
+
+
+/*Skills*/
+.pskills #skills{
+		margin-left: 25px;
+		margin-top: -300px;
+		font-size: 29px;
+		display: inline-block;
+}
+#myskills{
+		margin-left: 25px;
+		margin-top: 100px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.eighth {
+		height: 250px;
+		width: .01px;
+		border: 2px solid green;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+.pskills #oskills{
+		font-size: 25px;
+		margin-left: 240px;
+		margin-top: -250px;
+}
+
+.pskills #lists{
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+		font-family: cursive;
+}
+
+.pskills #compskills{
+		font-size: 25px;
+		margin-left: 240px;
+		margin-top: -5px;
+}
+
+#lists1{
+		font-size: 20px;
+		margin-left: 240px;
+		margin-top: -10px;
+		font-family: cursive;
+	
+}
+
+/*Experience*/
+#workexperience {
+		margin-left: -20px;
+		margin-top: 100px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.work2 {
+		height: 300px;
+		width: .01px;
+		border: 2px solid green;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+ #megam {
+		font-size: 29px;
+		margin-left: 220px;
+		margin-top: -300px;
+
+}
+#google {
+		font-size: 29px;
+		margin-left: 150px;
+		margin-top: 11px;
+}
+#beyond {
+		font-size: 29px;
+		margin-left: 190px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+}
+.work .server {
+		font-size: 20px;
+		margin-left: 220px;		
+}
+.work .software {
+		font-size: 20px;
+		margin-left: 150px;		
+}
+
+.work li { 
+		font-size: 20px;
+		margin-left: 180px;
+		margin-top: -10px;
+}
+
+/*Hobbies*/
+#hob {
+		margin-left: 25px;
+		margin-top: 100px;
+		font-size: 29px;
+		display: inline-block;
+}
+
+.head  {
+		height: 130px;
+		width: .01px;
+		border: 2px solid green;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+#lists2 {
+		font-size: 20px;
+		margin-left: 200px;
+		margin-top: -135px;
+		font-family: cursive;
+		
+}
+
+/*Reference*/
+.pear  {
+		height: 250px;
+		width: .01px;
+		border: 2px solid green;
+		margin-left: 200px;
+		margin-top: -55px;
+}
+
+#banana{
+		margin-left: 240px;
+		margin-top: -270px;
+}
+
+#apple{
+		margin-left: 240px;
+		margin-top: -.90px;
+		
+}
+.references ul {
+		margin-left: 210px;
+		font-size: 20px;
+		font-family: cursive;
+
+		
+		
+}
